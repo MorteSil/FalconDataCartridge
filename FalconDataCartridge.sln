@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FalconDataCartridge", "FalconDataCartridge.csproj", "{CA680EE6-CAA6-4FDE-B3B8-6A7B326F2317}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FalconDataCartridge", "FalconDataCartridge.csproj", "{CA680EE6-CAA6-4FDE-B3B8-6A7B326F2317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTCTests", "..\DTCTests\DTCTests.csproj", "{4FDEE8D8-BAFA-4895-A642-B568251EA27E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CA680EE6-CAA6-4FDE-B3B8-6A7B326F2317}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA680EE6-CAA6-4FDE-B3B8-6A7B326F2317}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA680EE6-CAA6-4FDE-B3B8-6A7B326F2317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDEE8D8-BAFA-4895-A642-B568251EA27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDEE8D8-BAFA-4895-A642-B568251EA27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDEE8D8-BAFA-4895-A642-B568251EA27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDEE8D8-BAFA-4895-A642-B568251EA27E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
